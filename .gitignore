@@ -1,5 +1,8 @@
 # IDE files
 .idea
 
+# Python cache
+__pycache__
+
 # Results
 *.png
